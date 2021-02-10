@@ -1,5 +1,4 @@
-# Source design (by Ohad Peled) 
-# https://dribbble.com/ohadpeled
+# UX/UI Design source (Ohad Peled: https://dribbble.com/ohadpeled)
 
 😜😜😜
 
