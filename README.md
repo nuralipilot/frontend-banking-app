@@ -1,4 +1,5 @@
-# Source design (by Ohad Peled https://dribbble.com/ohadpeled)
+# Source design (by Ohad Peled) 
+# https://dribbble.com/ohadpeled
 
 😜😜😜
 
