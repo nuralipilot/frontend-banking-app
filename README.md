@@ -1,3 +1,3 @@
-# Source design (not mine)
+## Source design (by Ohad Peled https://dribbble.com/ohadpeled)
 
-!(https://i.ibb.co/sHpgyCv/700634e314775e9b8a051d979cad3cd0.webp)
+![design](https://i.ibb.co/sHpgyCv/700634e314775e9b8a051d979cad3cd0.webp)
